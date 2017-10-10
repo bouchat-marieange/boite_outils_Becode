@@ -1,0 +1,6 @@
+## W3schools
+
+https://www.w3schools.com/
+
+Référence reprenant toutes les balises CSS, HTML, JavaScript, SQL, PHP, Bootstraap, Jquery, Angular, XML, etc ...
+Tutoriaux, Templates, ... Possibilité de tester les balises présentées en direct via une interface conviviale.
