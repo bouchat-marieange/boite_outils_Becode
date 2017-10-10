@@ -1,5 +1,5 @@
 # La boite à outils de BeCode Lovelace 2
-Toutes les ressources rassemblées en un seul endroit et classé par catégorie
+Toutes les ressources rassemblées en un seul endroit et classées par catégorie.
 Linux, Git / Github, applications utilies, webdesign, html/css, php, javascript, SASS, ... 
 
 ## Un dossier collaboratif
